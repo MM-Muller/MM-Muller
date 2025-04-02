@@ -5,7 +5,7 @@
 ---
 
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">\
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Muller&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages"; style="height: 190px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MM-Muller&&theme=dark" alt="GitHub Streak" style="height: 190px;"/> 
 </div>
